@@ -1,0 +1,3 @@
+-) đo công suất tiêu tán  : giữ Alt để hiện nhiệt kế r chuột trái vào điện trở
+-) muốn đo dòng điện thì nháy đúp vào nó
+-) muốn đo điện áp giữa hai đầu thì giữ ctrl rồi chọn 2 điểm 
